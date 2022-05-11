@@ -16,7 +16,7 @@ const courses = [
     number: '',
     link: 'https://www.samsung.com/ru/inrussia/school/',
     university: 'Samsung IT School Moscow',
-  }
+  },
 ];
 
 export default courses;
